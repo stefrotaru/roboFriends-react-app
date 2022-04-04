@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+A simple but responsive ReactJS app using a couple of APIs such as RoboHash (which generates the robots’
+pictures) and JSONPlaceholder (which provides some ‘fake data’, in our case the robots’ information). The
+search input allows users to filter through the robots and find their robo friend.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
